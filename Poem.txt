@@ -1,7 +1,2 @@
 Welcome to Git
 Do you have a question for it?
-
-How do we do versions without breaking the thing?
-
-Simply know how branches work
-Never push directly ot master only
